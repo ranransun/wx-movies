@@ -1,0 +1,32 @@
+/**index.wxss**/
+page{
+  width: 100%;
+  height: 100%;
+}
+.wrap{
+  min-height: 100%;
+  background: #8e8e8e;
+}
+swiper image{
+  width: 100%;
+  height: 100%;
+}
+.movie{
+  padding: 5px 0;
+  display: flex;
+  border-bottom: 1px solid #888;
+}
+.pic image{
+  width: 100px;
+  height: 150px;
+  vertical-align: top;
+}
+.movie-info{
+  padding-left: 20px;
+}
+.base-info{
+  color: #fff;
+  font-size: 12px;
+  padding-top: 20px;
+  line-height: 20px;
+}

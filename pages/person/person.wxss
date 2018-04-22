@@ -1,0 +1,4 @@
+/* pages/person/person.wxss */
+.person{
+  width: 100%;
+}
